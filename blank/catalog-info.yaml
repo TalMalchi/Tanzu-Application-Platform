@@ -8,10 +8,7 @@ metadata:
 spec:
   targets:
     - ./components/tap-gui.yaml
-    - ./groups/epic-dev-team.yaml
+    - ./groups/default-org.yaml
     - ./systems/tap-gui-system.yaml
     - ./domains/tap-gui-domain.yaml
-    - ./domains/hello-domain.yaml
-    - ./domains/online-stores.yaml    
-    - ./systems/hello-system.yaml
-    - ./systems/fitness-store.yaml
+
